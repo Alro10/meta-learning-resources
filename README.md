@@ -11,7 +11,7 @@ A curated list of meta-learning papers and resources.
 
 ### 2018
 
-| ----- | ------- | -------- | -------- |
+|     |           |          |          |
 | [Meta-Reinforcement Learning of Structured
 Exploration Strategies](https://papers.nips.cc/paper/7776-meta-reinforcement-learning-of-structured-exploration-strategies.pdf) | Abhishek Gupta, Russell Mendonca, YuXuan Liu, Pieter Abbeel, Sergey Levine | NeurIPS 2018 |
 
