@@ -1,5 +1,5 @@
-# Meta Learning Resources
-A curated list of meta-learning papers and resources.
+# ML Resources
+A curated list of meta-learning papers, code, tutorials, etc.
 
 <p align="center">
 <img src="https://github.com/Alro10/Meta-Learning-Resources/blob/master/maml.png" alt="alt text" width="60%" height="40%">
@@ -11,9 +11,7 @@ A curated list of meta-learning papers and resources.
 
 ### 2019
 
-| Title | Authors | Code | Publisher |
-| ----- | ------- | -------- | -------- |
-| [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424) | Jan Humplik, Alexandre Galashov, Leonard Hasenclever, Pedro A. Ortega, Yee Whye Teh, Nicolas Heess | not yet | DeepMind, arXiv |
+* [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424). Jan Humplik, Alexandre Galashov, Leonard Hasenclever, Pedro A. Ortega, Yee Whye Teh, Nicolas Heess. DeepMind, arXiv.
 
 ### 2018
 
