@@ -7,7 +7,7 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
 *Figure by BAIR Lab*
 
-## Papers by year
+## Papers
 
 ### 2019
 
