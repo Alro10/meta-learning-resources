@@ -1,4 +1,4 @@
-# ML Resources
+# Meta-Learning Resources
 A curated list of meta-learning papers, code, tutorials, etc.
 
 <p align="center">
