@@ -11,12 +11,12 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
 ### 2019
 
-- [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391)**CVPR 2019**
+- [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391). **CVPR 2019**
 
   - Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele
   - [Code](https://github.com/y2l/meta-transfer-learning-tensorflow)
 
-- [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424).**DeepMind**
+- [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424). **DeepMind**
 
   - Jan Humplik, Alexandre Galashov, LeonardDeepMind Hasenclever, Pedro A. Ortega, Yee Whye Teh, Nicolas Heess.
 
@@ -29,7 +29,7 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
 ### 2017
 
-- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400).**ICML 2017**
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). **ICML 2017**
 
   - Chelsea Finn, Pieter Abbeel, Sergey Levine.
   - [Code](https://github.com/cbfinn/maml).
