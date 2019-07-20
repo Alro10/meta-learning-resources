@@ -33,3 +33,7 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
   - Chelsea Finn, Pieter Abbeel, Sergey Levine.
   - [Code](https://github.com/cbfinn/maml).
+
+## Coding resources
+
+- [TensorFlow 2.0 implementation of MAML](https://github.com/mari-linhares/tensorflow-maml)  by Marianne Linhares.
