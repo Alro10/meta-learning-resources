@@ -37,7 +37,7 @@ A curated list of meta-learning papers, code, tutorials, etc.
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400). **ICML 2017**
 
   - Chelsea Finn, Pieter Abbeel, Sergey Levine.
-  - [Code](https://github.com/cbfinn/maml).
+  - [[Code](https://github.com/cbfinn/maml)]
 
 ## Code
 
