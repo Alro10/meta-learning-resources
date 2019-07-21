@@ -13,8 +13,13 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
 - [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391). **CVPR 2019**
 
-  - Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele
+  - Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele.
   - [Code](https://github.com/y2l/meta-transfer-learning-tensorflow)
+
+- [Meta-learning with differentiable closed-form solvers](https://arxiv.org/abs/1805.08136). **ICLR 2019**
+
+  - Luca Bertinetto, João F. Henriques, Philip H.S. Torr, Andrea Vedaldi.
+  - [[Code](https://github.com/bertinetto/r2d2)]
 
 - [Meta reinforcement learning as task inference](https://arxiv.org/abs/1905.06424). **DeepMind**
 
