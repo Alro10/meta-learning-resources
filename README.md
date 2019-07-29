@@ -18,6 +18,11 @@ A curated list of meta-learning papers, code, tutorials, etc.
 
 ### 2019
 
+- [Metalearned Neural Memory](https://arxiv.org/abs/1907.09720).
+
+  - Tsendsuren Munkhdalai, Alessandro Sordoni, Tong Wang, Adam Trischler.
+  - [Not yet]
+
 - [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391). **CVPR 2019**
 
   - Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele.
