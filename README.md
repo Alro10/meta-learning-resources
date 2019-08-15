@@ -26,7 +26,8 @@ A curated list of meta-learning papers, code, tutorials, etc.
 - [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391). **CVPR 2019**
 
   - Qianru Sun, Yaoyao Liu, Tat-Seng Chua, Bernt Schiele.
-  - [[Code](https://github.com/y2l/meta-transfer-learning-tensorflow)]
+  - [[Code-TensorFlow](https://github.com/y2l/meta-transfer-learning-tensorflow)]
+  - [[Code-Pytorch](git@github.com:Alro10/meta-learning-resources.git)]
 
 - [Meta-learning with differentiable closed-form solvers](https://arxiv.org/abs/1805.08136). **ICLR 2019**
 
