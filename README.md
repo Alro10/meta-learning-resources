@@ -1,6 +1,8 @@
 # Meta-Learning Resources
 A curated list of meta-learning papers, code, tutorials, etc.
 
+Under developing!
+
 <p align="center">
 <img src="https://github.com/Alro10/Meta-Learning-Resources/blob/master/maml.png" alt="alt text" width="60%" height="40%">
 </p>
