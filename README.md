@@ -20,15 +20,20 @@ Under developing!
 
 ### 2019
 
+- [Meta-Q-Learning](https://arxiv.org/pdf/1910.00125.pdf)
+
+  - Code-not yet
+  - Rasool Fakoor, et al.
+
 - [Meta-Learning with Implicit Gradients](https://arxiv.org/pdf/1909.04630.pdf) **NeurIPS 2019. First two authors contributed equally**
 
   - Aravind Rajeswaran, Chelsea Finn, Sham Kakade, Sergey Levine. 
-  - [Code-not yet]
+  - Code- not yet
 
 - [Metalearned Neural Memory](https://arxiv.org/abs/1907.09720).
 
   - Tsendsuren Munkhdalai, Alessandro Sordoni, Tong Wang, Adam Trischler.
-  - [Not yet]
+  - Code- not yet
 
 - [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391). **CVPR 2019**
 
