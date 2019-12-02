@@ -20,6 +20,11 @@ Under developing!
 
 ### 2019
 
+- [Meta-Learning of Neural Architectures for Few-Shot Learning](https://arxiv.org/pdf/1911.11090.pdf)
+
+  - Thomas Elsken, et al.
+  - not yet
+
 - [Meta-Q-Learning](https://arxiv.org/pdf/1910.00125.pdf)
 
   - Code-not yet
